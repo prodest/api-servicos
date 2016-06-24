@@ -1,0 +1,364 @@
+{
+  "servico": {
+    "codigoErro": 0,
+    "mensagem": "Processamento sem erros",
+    "data": "2016-03-02",
+    "versaoServico": "NovoSIORG-Servicos-2.4.3",
+    "ipRequisitante": "179.212.163.182",
+    "ticket": null
+  },
+  "unidades": [
+    {
+      "codigoUnidade": "10101",
+      "nome": "SECRETARIA DA CASA CIVIL"
+    },
+    {
+      "codigoUnidade": "10102",
+      "nome": "SECRETARIA DA CASA MILITAR"
+    },
+    {
+      "codigoUnidade": "10103",
+      "nome": "SECRETARIA DE ESTADO DE CONTROLE E TRANSPARÊNCIA"
+    },
+    {
+      "codigoUnidade": "10104",
+      "nome": "SUPERINTENDÊNCIA ESTADUAL DE COMUNICAÇÃO SOCIAL"
+    },
+    {
+      "codigoUnidade": "10105",
+      "nome": "DEFENSORIA PUBLICA"
+    },
+    {
+      "codigoUnidade": "10109",
+      "nome": "SECRETARIA DE ESTADO DO GOVERNO"
+    },
+    {
+      "codigoUnidade": "10111",
+      "nome": "COORDENACAO ESTADUAL DE CIENCIA E TECNOLOGIA"
+    },
+    {
+      "codigoUnidade": "10201",
+      "nome": "RÁDIO E TELEVISÃO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "10202",
+      "nome": "AGENCIA DE DESENVOLVIMENTO EM REDE DO ES S/A"
+    },
+    {
+      "codigoUnidade": "10203",
+      "nome": "INST. APOIO A PESQ. DESENV.JONES SANTOS NEVES"
+    },
+    {
+      "codigoUnidade": "10204",
+      "nome": "AGENCIA DE DESENVOLVIMENTO EM REDE DO ES S/A"
+    },
+    {
+      "codigoUnidade": "16000",
+      "nome": "PROCURADORIA GERAL DO ESTADO"
+    },
+    {
+      "codigoUnidade": "18000",
+      "nome": "DEFENSORIA PÚBLICA"
+    },
+    {
+      "codigoUnidade": "18901",
+      "nome": "FUNDO DE APARELHAMENTO DA DEFENSORIA PÚBLICA"
+    },
+    {
+      "codigoUnidade": "19000",
+      "nome": "GABINETE DO VICE-GOVERNADOR"
+    },
+    {
+      "codigoUnidade": "2000",
+      "nome": "TRIBUNAL DE CONTAS DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "22000",
+      "nome": "SECRETARIA DE ESTADO DA FAZENDA"
+    },
+    {
+      "codigoUnidade": "22202",
+      "nome": "JUNTA COMERCIAL DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "22204",
+      "nome": "BANCO DO ESTADO DO ESPÍRITO SANTO S/A"
+    },
+    {
+      "codigoUnidade": "22206",
+      "nome": "BANDES"
+    },
+    {
+      "codigoUnidade": "27000",
+      "nome": "SECRETARIA DE ESTADO DE ECONOMIA E PLANEJAMENTO"
+    },
+    {
+      "codigoUnidade": "27201",
+      "nome": "INSTITUTO JONES DOS SANTOS NEVES"
+    },
+    {
+      "codigoUnidade": "27205",
+      "nome": "BANCO DE DESENVOLVIMENTO DO ESTADO DO ES S/A"
+    },
+    {
+      "codigoUnidade": "28000",
+      "nome": "SECRETARIA DE ESTADO DE GESTÃO E RECURSOS HUMANOS"
+    },
+    {
+      "codigoUnidade": "28201",
+      "nome": "ESCOLA DE SERVIÇO PÚBLICO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "28202",
+      "nome": "DEPARTAMENTO DE IMPRENSA OFICIAL"
+    },
+    {
+      "codigoUnidade": "28203",
+      "nome": "INSTITUTO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "3000",
+      "nome": "TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "30000",
+      "nome": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO"
+    },
+    {
+      "codigoUnidade": "30201",
+      "nome": "SUPERINTENDÊNCIA DOS PROJETOS DE POLARIZAÇÃO INDUSTRIAL"
+    },
+    {
+      "codigoUnidade": "30202",
+      "nome": "AGENCIA DE DESENVOLVIMENTO EM REDE DO ES S/A"
+    },
+    {
+      "codigoUnidade": "30203",
+      "nome": "INSTITUTO DE PESOS E MEDIDAS DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "30204",
+      "nome": "AGÊNCIA DE SERVIÇOS PÚBLICOS DE ENERGIA DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "30205",
+      "nome": "AGÊNCIA DE DESENVOLVIMENTO DAS MICRO E PEQUENAS EMPRESAS E DO EMPREENDEDORISMO"
+    },
+    {
+      "codigoUnidade": "30206",
+      "nome": "BANCO DE DESENVOLVIMENTO DO ESPÍRITO SANTO S/A"
+    },
+    {
+      "codigoUnidade": "31000",
+      "nome": "SECRETARIA DE ESTADO DA AGRICULTURA, ABASTECIMENTO, AQUICULTURA E PESCA"
+    },
+    {
+      "codigoUnidade": "31201",
+      "nome": "INSTITUTO DE DEFESA AGROPECUÁRIA E FLORESTAL DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "31202",
+      "nome": "INSTITUTO CAPIXABA DE PESQUISA, ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL"
+    },
+    {
+      "codigoUnidade": "31203",
+      "nome": "CENTRAIS DE ABASTECIMENTO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "32000",
+      "nome": "SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E EDUCAÇÃO PROFISSIONAL"
+    },
+    {
+      "codigoUnidade": "32201",
+      "nome": "INST DE APOIO A PESQ E AO DESEN JONES S NEVES"
+    },
+    {
+      "codigoUnidade": "32202",
+      "nome": "FUNDAÇÃO DE AMPARO A PESQUISA E INOVAÇÃO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "35000",
+      "nome": "SECRETARIA DE ESTADO DOS TRANSPORTES E OBRAS PÚBLICAS"
+    },
+    {
+      "codigoUnidade": "35201",
+      "nome": "DEPARTAMENTO DE ESTRADAS E RODAGEM DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "35203",
+      "nome": "COMPANHIA DE TRANSPORTES URBANOS DA GRANDE VITÓRIA"
+    },
+    {
+      "codigoUnidade": "35205",
+      "nome": "COMPANHIA DE HABITACAO E URBANIZACAO DO ES"
+    },
+    {
+      "codigoUnidade": "35206",
+      "nome": "COMPANHIA ESPIRITO SANTENSE DE SANEAMENTO"
+    },
+    {
+      "codigoUnidade": "35207",
+      "nome": "DEPARTAMENTO ESTADUAL DE TRÂNSITO"
+    },
+    {
+      "codigoUnidade": "35208",
+      "nome": "INSTITUTO DE OBRAS PÚBLICAS DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "35901",
+      "nome": "FUNDO ESPECIAL PARA CONSTRUÇÃO, REFORMA E AMPLIAÇÃO DE EQUIPAMENTOS PÚBLICOS ESTADUAIS "
+    },
+    {
+      "codigoUnidade": "36000",
+      "nome": "SECRETARIA DE ESTADO DE SANEAMENTO, HABITAÇÃO E DESENVOLVIMENTO URBANO"
+    },
+    {
+      "codigoUnidade": "36201",
+      "nome": "CIA DE HABITACAO E URBANIZACAO DO ESTADO ES"
+    },
+    {
+      "codigoUnidade": "36202",
+      "nome": "COMPANHIA ESPÍRITO SANTENSE DE SANEAMENTO"
+    },
+    {
+      "codigoUnidade": "36203",
+      "nome": "AGÊNCIA REGULADORA DE SANEAMENTO BÁSICO E INFRAESTRUTURA VIÁRIA DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "36204",
+      "nome": "INSTITUTO DE DESENVOLVIMENTO URBANO E HABITAÇÃO DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "37000",
+      "nome": "SECRETARIA DE ESTADO DO TURISMO"
+    },
+    {
+      "codigoUnidade": "37901",
+      "nome": "FUNDO DE FOMENTO DO TURISMO"
+    },
+    {
+      "codigoUnidade": "39000",
+      "nome": "SECRETARIA DE ESTADO DE ESPORTES E LAZER"
+    },
+    {
+      "codigoUnidade": "4000",
+      "nome": "CORREGEDORIA GERAL DA JUSTICA"
+    },
+    {
+      "codigoUnidade": "40000",
+      "nome": "SECRETARIA DE ESTADO DA CULTURA"
+    },
+    {
+      "codigoUnidade": "40102",
+      "nome": "ARQUIVO PÚBLICO DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "41000",
+      "nome": "SECRETARIA DE ESTADO DE MEIO AMBIENTE E RECURSOS HÍDRICOS"
+    },
+    {
+      "codigoUnidade": "41201",
+      "nome": "INSTITUTO ESTADUAL DE MEIO AMBIENTE E RECURSOS HÍDRICOS"
+    },
+    {
+      "codigoUnidade": "41202",
+      "nome": "AGÊNCIA ESTADUAL DE RECURSOS HÍDRICOS"
+    },
+    {
+      "codigoUnidade": "42000",
+      "nome": "SECRETARIA DE ESTADO DA EDUCAÇÃO"
+    },
+    {
+      "codigoUnidade": "42201",
+      "nome": "FACULDADE DE MÚSICA DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "44000",
+      "nome": "SESA - ADM DIRETA"
+    },
+    {
+      "codigoUnidade": "44910",
+      "nome": "HOSPITAL INFANTIL NOSSA SENHORA DA GLORIA"
+    },
+    {
+      "codigoUnidade": "44911",
+      "nome": "HOSPITAL DR DORIO SILVA"
+    },
+    {
+      "codigoUnidade": "44912",
+      "nome": "HOSPITAL ADAUTO BOTELHO"
+    },
+    {
+      "codigoUnidade": "44913",
+      "nome": "CENTRO DE REABILITACAO FISICA DO E. ESP SANTO"
+    },
+    {
+      "codigoUnidade": "45000",
+      "nome": "SECRETARIA DE ESTADO DA SEGURANCA PÚBLICA E DEFESA SOCIAL"
+    },
+    {
+      "codigoUnidade": "45102",
+      "nome": "POLICIA CIVIL DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "45103",
+      "nome": "POLÍCIA MILITAR DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "45104",
+      "nome": "CORPO DE BOMBEIROS MILITAR DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "45105",
+      "nome": "DIRETORIA DE SAÚDE DA POLÍCIA MILITAR"
+    },
+    {
+      "codigoUnidade": "45106",
+      "nome": "COORDENADORIA ESTADUAL DE PROTEÇÃO E DEFESA CIVIL"
+    },
+    {
+      "codigoUnidade": "45201",
+      "nome": "DEPARTAMENTO ESTADUAL DE TRANSITO DO ES"
+    },
+    {
+      "codigoUnidade": "46000",
+      "nome": "SECRETARIA DE ESTADO DA JUSTIÇA"
+    },
+    {
+      "codigoUnidade": "46201",
+      "nome": "INSTITUTO DE ATENDIMENTO SOCIOEDUCATIVO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "46202",
+      "nome": "INSTITUTO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR"
+    },
+    {
+      "codigoUnidade": "47000",
+      "nome": "SECRETARIA DE ESTADO DE ASSISTÊNCIA SOCIAL E POLÍTICAS PARA MULHERES"
+    },
+    {
+      "codigoUnidade": "5000",
+      "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "6000",
+      "nome": "DEFENSORIA PÚBLICA DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "60201",
+      "nome": "INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "60901",
+      "nome": "FUNDO PREVIDENCIARIO"
+    },
+    {
+      "codigoUnidade": "6101",
+      "nome": "DEFENSORIA PÚBLICA DO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+      "codigoUnidade": "70000",
+      "nome": "SENTENCAS JUDICIÁRIAS"
+    }
+  ]
+}

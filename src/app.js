@@ -20,6 +20,7 @@ app.use( ( req, res, next ) => {
 } );
 
 // load our routes
+app = require( './routes/unidade' )( app );
 app = require( './routes/home' )( app );
 
 // error handlers
