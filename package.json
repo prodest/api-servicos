@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Api do Serviços ES",
   "scripts": {
-    "start": "node app/bin/www"
+    "start": "node src/bin/www"
   },
   "repository": {
     "type": "git",
