@@ -28,7 +28,7 @@ module.exports = () => {
                 },
                 {
                     unidade: [
-                        { codigoUnidade: baseUrl + codigo },
+                        { codigoUnidade: baseUrl + '/unidade/' + codigo },
                         { nome: unidade.nome },
                         { sigla: unidade.nome },
                         { versaoConsulta: '99.0.0' }

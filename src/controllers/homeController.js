@@ -10,7 +10,7 @@ module.exports = () => {
 
         const unidades = orgaos.unidades.map( a => {
             return {
-                codigoUnidade: baseUrl + 'unidade/' + a.codigoUnidade,
+                codigoUnidade: baseUrl + '/unidade/' + a.codigoUnidade,
                 nome: a.nome
             };
         } );
