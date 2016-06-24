@@ -3,7 +3,7 @@ language: node_js
 services:
   - docker
 script: 
-  docker build -t <nome_imagem> . && docker login -e="$DOCKER_EMAIL" -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD" && docker push <nome_imagem>
+  docker build -t prodest/api-servicos . && docker login -e="$DOCKER_EMAIL" -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD" && docker push prodest/api-servicos
 # deploy:
 #   provider: script
 #   script: docker login -e="$DOCKER_EMAIL" -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD" && docker push <nome_imagem>
